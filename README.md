@@ -29,4 +29,3 @@ thalach : maximum heart rate achieved
 
 target : 0= less chance of heart attack 1= more chance of heart attack
 
-n
